@@ -1,2 +1,2 @@
 # spring-security
-spring-security setp by steup
+spring-security-demo setp by step tutorial
